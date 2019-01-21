@@ -3,7 +3,7 @@ Workshops, projects and coursework for Seneca's Web Programing Tools & Framework
 Node.js, Express.js, Git, jQuery & Bootstrap frameworks, MongoDB, & Template Engines - Handlebar.js. 
 
 ## Assignments Completed
-- [ ] W1 - Environment setup using Heroku, Visual Studio Code, & Git. 
+- [x] W1 - Environment setup using Heroku, Visual Studio Code, & Git. 
 - [ ] W2 - Created + publish a web app using multiple routes serving static files (HTML & CSS), create data service
            module for     accessing data. 
 - [ ] W3
