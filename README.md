@@ -5,7 +5,7 @@ Node.js, Express.js, Git, jQuery & Bootstrap frameworks, MongoDB, & Template Eng
 ## Assignments Completed
 - [ ] W1 - Environment setup using Heroku, Visual Studio Code, & Git. 
 - [ ] W2 - Created + publish a web app using multiple routes serving static files (HTML & CSS), create data service
-           module for accessing data. 
+           module for     accessing data. 
 - [ ] W3
 - [ ] W4
 - [ ] W5
