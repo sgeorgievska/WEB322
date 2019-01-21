@@ -1,4 +1,4 @@
-# WEB32
+# WEB322
 Workshops, projects and coursework for Seneca's Web Programing Tools & Frameworks course. This repository demonstrates JavaScript, 
 Node.js, Express.js, Git, jQuery & Bootstrap frameworks, MongoDB, & Template Engines - Handlebar.js. 
 
