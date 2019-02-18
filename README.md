@@ -6,8 +6,8 @@ Node.js, Express.js, Git, jQuery & Bootstrap frameworks, MongoDB, & Template Eng
 - [x] W1 - Environment setup using Heroku, Visual Studio Code, & Git. 
 - [x] W2 - Created + publish a web app using multiple routes serving static files (HTML & CSS), create data service
            module for     accessing data. 
-- [ ] W3
-- [ ] W4
+- [ ] W3 - Include new routes and logic to handle file uploads and add employees, execute focused queries for data
+- [ ] W4 - Add Handlebars view engine to render JSON data visually in browser using .hbs views and layouts + update data-service module
 - [ ] W5
 - [ ] W6 
 - [ ] W7
